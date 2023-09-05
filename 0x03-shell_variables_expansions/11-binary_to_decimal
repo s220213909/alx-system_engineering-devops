@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%.2f" $BINARY | sort
+printf "%d\n" $BINARY
